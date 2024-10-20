@@ -16,14 +16,15 @@
 ---
 
 ## 🔧 Tecnologías y Herramientas  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Framework-Express-black?logo=express&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/SSR-Next.js-black?logo=next.js&logoColor=white)  
-![Docker](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/Markup-HTML5-orange?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Framework-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![Astro](https://img.shields.io/badge/SSG-Astro-FF5D01?logo=astro&logoColor=white)
 
 
 ---
