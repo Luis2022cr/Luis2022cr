@@ -2,7 +2,7 @@
 
 ### 🚀 Desarrollador Web Full Stack | Node.js · TypeScript · React · Next.js · Astro ..................... 
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web con experiencia en **backend** y **frontend**, especializado en tecnologías modernas que brindan rendimiento, escalabilidad y una excelente experiencia de usuario.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web con experiencia en **backend** y **frontend**, orientado en tecnologías modernas que brindan rendimiento, escalabilidad y una excelente experiencia de usuario.
 
 ---
 
