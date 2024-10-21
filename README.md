@@ -30,8 +30,7 @@
 ---
 
 ## 📊 Mis estadísticas de GitHub  
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Luis2022cr&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis2022cr&layout=compact&theme=radical)
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Luis2022cr&show_icons=true&theme=radical)  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis2022cr&layout=compact&theme=radical)
 
 ---
 
