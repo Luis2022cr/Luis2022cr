@@ -36,8 +36,8 @@
 
 ## 📫 ¡Conéctate conmigo!  
 Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme:  
-- 🌐 [Portfolio]('')  
-- 💼 [LinkedIn]('')  
+- 🌐 [Portfolio](https://portfolio-web-luis.pages.dev/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-contreras-233793319/)  
 
 ---
 
